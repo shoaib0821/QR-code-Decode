@@ -1,0 +1,13 @@
+image_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\images"
+tesseract_path = r"C:\Users\mshoaib\AppData\Local\Tesseract-OCR\tesseract.exe"
+public_key_path = r"C:\Users\mshoaib\Documents\einvpublickey3\einv_public_key.pem"
+poppler_path = r"C:\Users\mshoaib\Documents\Release-20.11.0\poppler-20.11.0\bin"
+output_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\output"
+undecoded_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\no_qrcode_pdfs"
+decoded_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\decoded_pdfs"
+tif_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\tif_files"
+input_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\input_files"
+qr_code_failure = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\qrcode_failure"
+temp_path = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\temp"
+unprocessed_pdfs = r"C:\Users\mshoaib\PycharmProjects\src multi threading\src\unprocessed_pdfs"
+number_of_pages = 15
